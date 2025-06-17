@@ -1,1 +1,1 @@
-Welcome to the template-websites repo, here I make website templates 
+Welcome to the template-websites repo, here I make website templates that you are able to see how they're coded and can be viewed from the initial page [here](https://smexykatarina.github.io/template-websites)
