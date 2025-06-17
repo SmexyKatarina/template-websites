@@ -17,6 +17,10 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+  .separator {
+    border-top-width: 1px;
+    margin-top: 1px;
+  }
 }
 
 body {
